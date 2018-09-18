@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/johnsonjpj/pen/MwQqLN.
-
- This is the html / css version of my resume
+Another small leap towards web-development.
+A resume page created by taking refrence as johnsonjpj's code availabe on codepen. 
